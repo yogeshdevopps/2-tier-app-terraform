@@ -28,8 +28,5 @@ Note: Install the Terraform and other dependency.   <br>
 ✈️ Now we can the resources has been created on cloud ⛅
 
 once you execute all the cmd , kindly delete the resources you have created by using-  terraform destroy
-*******
-LINKS :   <br>
-linkedin link: https://www.linkedin.com/feed/update/urn:li:share:7097986502470598656/  <br>
-blog link : https://johnpaul548.hashnode.dev/implementing-two-tier-architecture-in-aws-using-terraform-10weeksofcloudops
+
 
